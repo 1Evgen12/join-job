@@ -4,4 +4,4 @@
 
 ![](./smile.png)
 
-[На главную](./first-page.md)
+[На главную](./index.md)
